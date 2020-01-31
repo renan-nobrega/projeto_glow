@@ -16,7 +16,7 @@
 				</a>
 				<nav class="top-nav-area w-100">
 					<div class="user-panel">
-						<a href="">Login</a> / <a href="">Register</a>
+						<a href="login.html">Login</a> / <a href="">Register</a>
 					</div>
 					<!-- Menu -->
 					<ul class="main-menu primary-menu">
